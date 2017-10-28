@@ -1,2 +1,5 @@
 # ebig-doc
-EBIG club publications
+Emeryville Biocompiler Interest Group (EBIG) Club Publications
+
+Welcome.
+
